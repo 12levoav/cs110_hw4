@@ -1,0 +1,11 @@
+body{
+  background: url("a.png") no-repeat fixed;
+    background-size: cover;;
+}
+#Button{
+    color: red;
+
+}
+#knopka {
+    color:red;
+}
